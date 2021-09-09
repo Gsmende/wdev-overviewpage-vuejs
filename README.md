@@ -1,24 +1,16 @@
-# wdev-site
+* Consumindo dados da API no repositório:
+- https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api
 
-## Project setup
-```
-npm install
-```
+**************************************************************************************
+* Rotas da API
+- Redes sociais GET /social-links.json
+- Vídeos GET /videos.json
+- Sobre GET /about.json
+- Contatos GET /contacts.json
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Conceitos aplicados no desenvolvimento 
+- Consumir dados da API com Axios 
+- Gerenciamento de rotas com VueRouter
+- Laços de repetição e estrutura condicional 
+- Utilização e criação de componentes
